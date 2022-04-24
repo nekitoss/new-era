@@ -19,6 +19,7 @@
     <modules>
         <module>discovery-service</module>
         <module>MS1</module>
+        <module>MS2</module>
     </modules>
 
     <properties>
